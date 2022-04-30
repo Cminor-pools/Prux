@@ -60,3 +60,17 @@ If you are testing something that can run on one machine, run with the -regtest 
 DEBUG_LOCKORDER
 
 Prux Core is a multithreaded application, and deadlocks or other multithreading bugs can be very difficult to track down. Compiling with -DDEBUG_LOCKORDER (configure CXXFLAGS="-DDEBUG_LOCKORDER -g") inserts run-time checks to keep track of which locks are held, and adds warnings to the debug.log file if inconsistencies are detected.
+  
+  
+  
+   
+ PRUX-CORE_v3.0.0
+ 
+ MANDATORY UPDATE! , please update to beware from possible chainfork more security for atomic swaps.
+ 
+ Reorg Protection enabled.
+ 
+ PRUX-BLOCKCHAIN BOOTSTRAP from 07-04-2022 @Cminors pools , block height 17,410,223 ++
+ Download link by cminor`s pool https://cminors-pool.com/Prux_Bootstrap_7thApril22.zip 3.6GB
+  
+   
